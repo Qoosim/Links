@@ -13,12 +13,12 @@ https://www.bigmarker.com/microverse/From-Microverse-to-Microsoft-An-interview-b
 
 https://github.com/jubaan/the_labradors ## the_labradors_team
 
-#******************************************************#
-    ====DROP TABLE IN RAILS DATABASE=====
-    $ rails console
-    Then just type
-    ActiveRecord::Migration.drop_table(:table_name)
-    Then run rails db:migrate
+###******************************************************
+  -  ====DROP TABLE IN RAILS DATABASE=====
+  -   $ rails console
+  -   Then just type
+  -   ActiveRecord::Migration.drop_table(:table_name)
+  -   Then run rails db:migrate
 #******************************************************#
 
 ##*************************************************##
