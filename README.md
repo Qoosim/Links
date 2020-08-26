@@ -35,3 +35,5 @@
 * https://github.com/Hemant-Jain-Author
 
 * success@microverse.org [Student Success]
+
+* https://www.torre.co/t/remotetalent2020 [RemoteTalent2020] 
