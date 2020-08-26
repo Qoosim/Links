@@ -36,4 +36,5 @@
 
 * success@microverse.org [Student Success]
 
-* https://www.torre.co/t/remotetalent2020 [RemoteTalent2020] 
+* https://www.torre.co/t/remotetalent2020 [RemoteTalent2020]
+* https://www.torre.co/en [RemoteTalent2020 job alert]
